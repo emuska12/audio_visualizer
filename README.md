@@ -1,2 +1,2 @@
 # audio_visualizer
-interactive project, python, css, javascript
+interactive project, html, css, javascript
