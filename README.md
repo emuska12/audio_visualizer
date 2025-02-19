@@ -28,4 +28,4 @@ Users can modify the visual appearance using interactive controls.
 Support for external audio files.
 Additional visualization styles (bars, waves, particles).
 Advanced user customization options.
-This project was a valuable learning experience in real-time data visualization and creative coding.
+This project was a valuable learning experience in real-time data visualization and creative coding. Full documentation for now in Slovak - search for pdf "dokumentacia.pdf".
